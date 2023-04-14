@@ -1,0 +1,252 @@
+    .Halaman_Utama {
+        position: absolute;
+        width: 1920px;
+        height: 1080px;
+        background-color: rgba(92, 158, 245, 1);
+        overflow: hidden;
+    }
+    
+    .Utama a {
+        color: rgba(241, 241, 241, 1);
+        position: absolute;
+        overflow: visible;
+        white-space: nowrap;
+        cursor: pointer;
+        text-align: center;
+        font-family: Comic Sans MS;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        text-decoration: none;
+        top: 35px;
+        height: 63px;
+    }
+    
+    .Utama a:hover {
+        background-color: rgb(28, 160, 248);
+        padding: 2px;
+    }
+    
+    .Home {
+        width: 118px;
+        left: 1000px;
+    }
+    
+    .Tentang {
+        /* --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Tentang.html; */
+        width: 174px;
+        left: 1139px;
+    }
+    
+    .Kontak {
+        width: 146px;
+        left: 1339px;
+        /* --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Kontak.html; */
+        cursor: pointer;
+    }
+    
+    .login {
+        width: 108px;
+        left: 1539px;
+        /* --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Login.html; */
+        cursor: pointer;
+    }
+    
+    .Sign_Up {
+        width: 238px;
+        left: 1639px;
+        /* fill: transparent;
+    stroke: rgba(21, 20, 22, 1);
+    stroke-width: 2px;
+    stroke-linejoin: bevel;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto; */
+    }
+    
+    .SELAMAT_DATANG__KirjaKuy_ {
+        left: 95px;
+        top: 200px;
+        position: absolute;
+        overflow: visible;
+        width: 1335px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Footlight MT;
+        font-style: normal;
+        font-weight: lighter;
+        font-size: 150px;
+        color: rgba(241, 241, 241, 1);
+    }
+    
+    #Group_1 {
+        position: absolute;
+        left: 138px;
+        top: 660px;
+        overflow: visible;
+    }
+    
+    .kotak_signup {
+        position: absolute;
+        overflow: visible;
+        left: 0px;
+        top: 0px;
+        fill: rgba(255, 255, 255, 1);
+        stroke: rgba(21, 20, 22, 1);
+        stroke-width: 2px;
+        stroke-linejoin: bevel;
+        stroke-linecap: round;
+        stroke-miterlimit: 2;
+        shape-rendering: auto;
+    }
+    
+    .Sign_Up2 {
+        left: 35px;
+        top: 18px;
+        position: absolute;
+        overflow: visible;
+        width: 207px;
+        white-space: nowrap;
+        text-align: center;
+        font-family: Comic Sans MS;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 45px;
+        color: rgba(19, 64, 212, 1);
+    }
+    
+    .logo1 {
+        position: absolute;
+        width: 561px;
+        height: 561px;
+        left: 1359px;
+        top: 510px;
+        overflow: visible;
+    }
+    
+    .b_tentang {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+        position: absolute;
+        width: 1920px;
+        height: 1080px;
+        background-color: rgba(92, 158, 245, 1);
+        /* overflow: hidden;
+        --web-view-name: Tentang;
+        --web-view-id: Tentang;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true; */
+    }
+    
+    .isi {
+        left: 192px;
+        top: 250px;
+        position: absolute;
+        overflow: visible;
+        width: 1597px;
+        white-space: nowrap;
+        text-align: center;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 45px;
+        color: rgba(249, 249, 249, 1);
+    }
+    
+    #Rectangle_9 {
+        filter: blur(5px);
+        fill: transparent;
+        stroke: rgb(0, 0, 0);
+        stroke-width: 4px;
+        stroke-linejoin: miter;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    
+    .Rectangle_9 {
+        position: absolute;
+        overflow: visible;
+        width: 1458px;
+        height: 505px;
+        left: 160px;
+        top: 230px;
+    }
+    
+    .judul {
+        left: 144px;
+        top: -50px;
+        position: absolute;
+        overflow: visible;
+        width: 900px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 120px;
+        color: rgba(249, 249, 249, 1);
+    }
+    /* halaman kontak */
+    
+    #kotak_kontak {
+        position: absolute;
+        width: 1328px;
+        height: 155px;
+        left: 263px;
+        top: 213px;
+        overflow: visible;
+    }
+    
+    #kotak1 {
+        fill: rgba(255, 255, 255, 1);
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 5px;
+        stroke-linejoin: round;
+        stroke-linecap: square;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    
+    .kotak1 {
+        width: 1328px;
+        height: 145px;
+    }
+    
+    #Kontak {
+        left: 542px;
+        top: 15px;
+        position: absolute;
+        overflow: visible;
+        width: 245px;
+        white-space: nowrap;
+        text-align: center;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 80px;
+        color: rgba(0, 74, 246, 1);
+    }
+    
+    #nomer {
+        left: 724px;
+        top: 468px;
+        position: absolute;
+        overflow: visible;
+        width: 853px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 50px;
+        color: rgba(255, 255, 255, 1);
+    }
